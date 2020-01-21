@@ -1,3 +1,2 @@
 hello git
-hey  making change from git acoount
-change msg
+hey  making change
